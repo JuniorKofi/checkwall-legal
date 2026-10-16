@@ -1,6 +1,4 @@
-# Check Wall – legal pages
+# Moved
 
-Privacy Policy and Terms of Service for the Check Wall game, hosted with GitHub Pages:
-
-- https://juniorkofi.github.io/checkwall-legal/privacy.html
-- https://juniorkofi.github.io/checkwall-legal/terms.html
+The Check Wall legal pages now live at https://oware-junior.github.io/checkwall-legal/
+This repository only forwards old links.
